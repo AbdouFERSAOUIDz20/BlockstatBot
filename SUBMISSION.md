@@ -19,4 +19,4 @@ A free Discord bot that shows Hypixel information only when a user runs a slash 
 - The API key is stored in an environment variable on the server and is never shared or placed in code.
 - The bot states in its embeds and in `/about` that it is not affiliated with or endorsed by Hypixel.
 
-**Source code:** (add your GitHub repository URL here)
+**Source code:** https://github.com/AbdouFERSAOUIDz20/BlockstatBot
