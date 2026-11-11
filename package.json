@@ -1,0 +1,16 @@
+{
+  "name": "blockstat-bot",
+  "version": "1.0.0",
+  "description": "Discord bot: on-demand Minecraft player stats, comparison and account linking. Not affiliated with Hypixel.",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "deploy": "node src/deploy-commands.js"
+  },
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5"
+  }
+}
